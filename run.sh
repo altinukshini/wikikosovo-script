@@ -41,4 +41,4 @@
  
 done
 
-rm -r image.log user.log
+rm -r index image.log user.log
